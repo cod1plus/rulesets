@@ -1,0 +1,5 @@
+# COD1.6X main-menu announcement. Lines: title / text / link (optional). Empty = no card.
+# Read by the client at start-up and every 10 minutes.
+MAJOR IN PROGRESS
+CoDBase Major Cup #18 - vCoD 1.6
+https://fpschallenge.eu/tournament/codbase-major-cup-18-vcod-16
